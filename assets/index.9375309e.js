@@ -1,4 +1,4 @@
-import{V as m}from"./index.9af1f2a2.js";import{i as h}from"./\u508D\u665A\u7684\u6797\u4E2D\u5C0F\u5C4B.548b2ab6.js";import{_ as f,r as c,o as p,c as u,a as t,b as e,w as s,e as _,p as g,d as v,t as w}from"./index.30c658c1.js";const x={name:"doc-fit",components:{VueDragResize:m},mounted(){this.w=this.$el.offsetWidth},data(){return{img:h,w:900,usage:`<!--fit \u7EC4\u4EF6\u5185\u53EA\u80FD\u540C\u65F6\u663E\u793A\u4E00\u4E2A\u5143\u7D20-->
+import{V as m}from"./index.9571e620.js";import{i as h}from"./\u508D\u665A\u7684\u6797\u4E2D\u5C0F\u5C4B.548b2ab6.js";import{_ as f,r as c,o as p,c as u,a as t,b as e,w as s,e as _,p as g,d as v,t as w}from"./index.bbb98dde.js";const x={name:"doc-fit",components:{VueDragResize:m},mounted(){this.w=this.$el.offsetWidth},data(){return{img:h,w:900,usage:`<!--fit \u7EC4\u4EF6\u5185\u53EA\u80FD\u540C\u65F6\u663E\u793A\u4E00\u4E2A\u5143\u7D20-->
 <!--fit \u7EC4\u4EF6\u53EA\u6709\u5728\u5177\u6709\u5BBD\u9AD8\u5C3A\u5BF8\u65F6\uFF0C\u624D\u4F1A\u5C06\u5185\u5BB9\u88C1\u5207\u5339\u914D-->
 <!--fit \u7EC4\u4EF6\u9ED8\u8BA4\u662F\u77ED\u8FB9\u9002\u914D-->
 <fit fill>

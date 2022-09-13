@@ -1,4 +1,4 @@
-import{V as h}from"./index.9af1f2a2.js";import{_ as v,r as t,o as n,c as _,a as e,b as s,w as o,e as i,p as g,d as x,F as w,f as b,t as l}from"./index.30c658c1.js";var y="/assets/\u7EF4\u4E5F\u7EB3.193214f6.jpg";const V={name:"doc-flex",components:{VueDragResize:h},mounted(){this.w=this.$el.offsetWidth},data(){return{img:y,w:900,usage:`<!--\u63D2\u69FD\u5185\u6BCF\u4E2A\u5143\u7D20\u5FC5\u987B\u6307\u5B9A\u5BBD\u9AD8\u5C3A\u5BF8-->
+import{V as h}from"./index.9571e620.js";import{_ as v,r as t,o as n,c as _,a as e,b as s,w as o,e as i,p as g,d as x,F as w,f as b,t as l}from"./index.bbb98dde.js";var y="/assets/\u7EF4\u4E5F\u7EB3.193214f6.jpg";const V={name:"doc-flex",components:{VueDragResize:h},mounted(){this.w=this.$el.offsetWidth},data(){return{img:y,w:900,usage:`<!--\u63D2\u69FD\u5185\u6BCF\u4E2A\u5143\u7D20\u5FC5\u987B\u6307\u5B9A\u5BBD\u9AD8\u5C3A\u5BF8-->
 <!--\u63D2\u69FD\u5185\u6BCF\u4E2A\u5143\u7D20\u7684\u5BBD\u5EA6\u5FC5\u987B\u4E00\u6837-->
 <flex fill>
     <div foo bar bg wd-md ht-md v-for="n in 9">{{ n }}</div>

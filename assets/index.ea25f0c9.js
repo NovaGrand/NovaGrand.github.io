@@ -1,4 +1,4 @@
-import{_ as n,r as t,aN as l,o as p,c as _,b as s,w as a,a as o,g as m,e as d,t as g}from"./index.30c658c1.js";var v="/assets/\u6816\u606F\u9E1F.bc2f9757.jpg";const f={name:"doc-lazy",data(){return{img:v,usage:`<!--\u5BF9 img video src input \u7B49\u5177\u6709 src \u5C5E\u6027\u7684\u5143\u7D20\u90FD\u6709\u6548-->
+import{_ as n,r as t,aN as l,o as p,c as _,b as s,w as a,a as o,g as m,e as d,t as g}from"./index.bbb98dde.js";var v="/assets/\u6816\u606F\u9E1F.bc2f9757.jpg";const f={name:"doc-lazy",data(){return{img:v,usage:`<!--\u5BF9 img video src input \u7B49\u5177\u6709 src \u5C5E\u6027\u7684\u5143\u7D20\u90FD\u6709\u6548-->
 <fit ht-xl ht-25 col-25 bevel>
     <img v-lazy src="...">
 </fit>
